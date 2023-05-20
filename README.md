@@ -17,7 +17,7 @@ Make sure you have the following dependencies installed:
 
 You can install the required packages by running the following command:
 python breast_cancer_prediction.py
--------------------------------------------------------------------------------------------------
+
 # Results <br></br>
 
 After running the script, you will see the accuracy of the logistic regression model on the testing set.
