@@ -15,7 +15,7 @@ Make sure you have the following dependencies installed:
 3.Pandas
 4.Scikit-learn
 
-You can install the required packages by running the following command:<<br></br>
+You can install the required packages by running the following command:
 python breast_cancer_prediction.py
 -------------------------------------------------------------------------------------------------
 # Results <br></br>
